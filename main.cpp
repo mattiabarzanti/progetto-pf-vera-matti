@@ -6,5 +6,6 @@ int main(){
     //git switch -c nome branch per creare
     //git siwtch nome branch per cambiare
     //controlla come fare per il merge della branch
+    //git status per vedere in che branch sei
 
 }
